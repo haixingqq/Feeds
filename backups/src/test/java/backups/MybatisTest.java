@@ -21,10 +21,7 @@ public class MybatisTest {
 	
 	@Test
 	public  void testdb(){
-		/*System.out.println(imysql.select());
-		System.out.println(imysql.getUsers());*/
 		imysql.updateUser();
-		
 	}
 	
 	
